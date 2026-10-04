@@ -27,7 +27,8 @@ Both notebooks use a **90/10 stratified train-test split** and **5-fold stratifi
 
 ### Logistic Regression Dashboard
 
-![Logistic Regression Dashboard](sonar_dashboard_assets/logistic_regression_dashboard.png)
+<img width="833" height="700" alt="image" src="https://github.com/user-attachments/assets/05b63599-f92b-43b9-b317-88d576e53c0b" />
+
 
 **Observation:** Expanding the dataset improved both test accuracy and cross-validation performance.
 
@@ -40,7 +41,8 @@ Both notebooks use a **90/10 stratified train-test split** and **5-fold stratifi
 
 ### SVM Dashboard
 
-![SVM Dashboard](sonar_dashboard_assets/svm_dashboard.png)
+<img width="833" height="700" alt="image" src="https://github.com/user-attachments/assets/f7060b5b-c6ef-4ea7-84db-cf6185bc2415" />
+
 
 **Observation:** SVM outperformed Logistic Regression on both datasets.
 
